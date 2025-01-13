@@ -12,6 +12,6 @@ A software engineer who loves .NET
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,redis,mongodb,docker,rabbitmq" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,redis,mongodb,docker,rabbitmq,kafka" />
   </a>
 </p>
